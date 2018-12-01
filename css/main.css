@@ -1,0 +1,58 @@
+/*css*/
+
+p
+{
+	font-size: 15px;
+	line-height: 25px;
+}
+
+#container
+{
+	margin-left: 55px;
+	margin-bottom: 30px;
+}
+
+#container h1
+{
+	margin-left: 390px;
+}
+
+#container h5
+{
+	margin-left: 440px;
+	margin-top: -30px;
+}
+
+#content
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+
+#content img
+{
+	width: 400px;
+}
+
+.articles div
+{
+	margin-left: -60px;
+}
+
+.articles
+{
+	width: 1200px;
+	height: 450px;
+	padding-left: 20px;
+	padding-right: 10px;
+	margin-bottom: 20px;
+	background-color: #f5f1ee;
+}
+
+.articles img
+{
+	float: left;
+	margin-right: 10px;
+	margin-left: 10px;
+}
